@@ -9,8 +9,8 @@ class ChattyStudent < Student
       super
       i+=1
       if i == 10
-        break 
-      end 
+        break
+      end
     end
 
   end
